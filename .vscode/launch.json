@@ -17,11 +17,7 @@
             "request": "attach",
             "type": "chrome",
             "webRoot": "${workspaceFolder}"
-        },
-
-
-
-        
+        },        
         {
             "name": "Attach to Edge",
             "port": 9222,
@@ -36,7 +32,6 @@
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
         },
-
         {
             "name": "Launch Edge",
             "request": "launch",
